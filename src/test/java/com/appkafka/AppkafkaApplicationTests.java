@@ -1,10 +1,10 @@
-package com.consumerccs;
+package com.appkafka;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class ConsumerccsApplicationTests {
+class AppkafkaApplicationTests {
 
 	@Test
 	void contextLoads() {
